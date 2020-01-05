@@ -1,4 +1,4 @@
-###Level 2
+### Level 2
 
 Reading files with space in there name is quite simple
 
@@ -7,7 +7,5 @@ Just cat initial words of the file and press tab for the whole name to be added 
 
 to read the file named: We are the one
 ```
-
 cat We\ are\ the\ one 
-
 ```
