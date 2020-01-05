@@ -1,20 +1,16 @@
-### Over The Wire Solutions and WriteUps 
+### Over The Wire Solutions and WriteUps
 
-## Level 1 - 6 
-Basics of Linux commands to fetch and upload files
+Level 0
 
-### Commands Used 
+ssh into the game server to go to the next level
 
-```
-file
-cut
-cp
-mv
-find
-xargs
-grep
-|
-man
+ssh <username>@<host> -p <Port>
+Enter the Password to enter the server via ssh
 
+Resources:
+[ssh](https://en.wikipedia.org/wiki/Secure_Shell)
+[How to use ssh](https://www.wikihow.com/Use-SSH)
 
-```
+Just man ssh at this point
+
+Once you have entered the level ls to get the files listed and cat the readme for the flag to enter the next level.
