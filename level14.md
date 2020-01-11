@@ -2,7 +2,7 @@
 
 In this level in order to retreive the password(Flag) we are requried to enter the password for the by connecting to localhost to port 30000
 
-We use netcat to do this and rely on passing the password of level14 to get the password from level15
+We use netcat to do this and rely on passing the password of level 14 to get the password for level 15
 
 ```
 $ man nc
