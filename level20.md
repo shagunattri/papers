@@ -12,14 +12,15 @@ suconnect
 $ ./suconnect
 
 Usage: ./suconnect <portnumber> 
-This program will connect to the given port on localhost using TCP. If it receives the correct password from the other side, the next password is transmitted back.
+This program will connect to the given port on localhost using TCP. If it receives the correct 
+password from the other side, the next password is transmitted back.
 
 ```
 We need two session where a netcat instance listens on a port and cat the output while the other ssh session executes the suconnect with the port number that the netcat is listening to cat the password.
 
 
 
-## netstat -tulpn  Showa you what ports (tcp/udp) are opened on localhost versus having to do a portscan with nmap to localhost
+## netstat -tulpn  Shows you what ports (tcp/udp) are opened on localhost versus having to do a portscan with nmap to localhost
 
 
 INSTANCE 1
