@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>OverTheWire | Bandit</title>
+</head>
+<body>
+    {{ $title := .Title }}
+{{ range .Site.Pages }}
+    <li><a href="{{.URL}}" style="{{ if eq .Title $title }} background-color:yellow;{{end}}">>{{.Title}}</a></li>
+{{end}}
+
+</body>
+
+</html>
