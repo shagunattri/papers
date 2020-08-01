@@ -2,7 +2,7 @@
 
 A collection of important security related papers worth a read.
 
-##### Reining in the Web with Content Security Policy
+#### Reining in the Web with Content Security Policy
 https://research.sidstamm.com/papers/csp-www2010.pdf
 
 ##### Online Tracking:A 1-million-site Measurement and Analysis
@@ -40,3 +40,6 @@ https://www.usenix.org/system/files/conference/woot14/woot14-bursztein.pdf
 
 ##### Recognizing Objects in Adversarial Clutter:Breaking a Visual CAPTCHA
 https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/mori-gimpy.pdf
+
+#### Fantastic Timers and Where to Find Them:High-Resolution MicroarchitecturalAttacks in JavaScript
+https://gruss.cc/files/fantastictimers.pdf
