@@ -55,3 +55,6 @@ https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf
 
 #### Security vulnerabilities in modern web browser architecture
 https://www.researchgate.net/publication/224163004_Security_vulnerabilities_in_modern_web_browser_architecture
+
+#### CSP Is Dead, Long Live CSP! On the Insecurity ofWhitelists and the Future of Content Security Policy
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf
