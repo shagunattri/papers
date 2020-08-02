@@ -43,3 +43,9 @@ https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/mori-gimpy.pdf
 
 #### Fantastic Timers and Where to Find Them:High-Resolution MicroarchitecturalAttacks in JavaScript
 https://gruss.cc/files/fantastictimers.pdf
+
+#### Protecting Browsers from DNS Rebinding Attacks
+https://crypto.stanford.edu/dns/dns-rebinding.pdf
+
+#### Timeless Timing Attacks:Exploiting Concurrency to Leak Secrets over Remote Connection
+https://tom.vg/papers/timeless-timing-attack_usenix2020.pdf
