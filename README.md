@@ -49,3 +49,9 @@ https://crypto.stanford.edu/dns/dns-rebinding.pdf
 
 #### Timeless Timing Attacks:Exploiting Concurrency to Leak Secrets over Remote Connection
 https://tom.vg/papers/timeless-timing-attack_usenix2020.pdf
+
+#### The Security Architecture of the Chromium Browser
+https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf
+
+#### Security vulnerabilities in modern web browser architecture
+https://www.researchgate.net/publication/224163004_Security_vulnerabilities_in_modern_web_browser_architecture
