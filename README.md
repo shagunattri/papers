@@ -58,3 +58,6 @@ https://www.researchgate.net/publication/224163004_Security_vulnerabilities_in_m
 
 #### CSP Is Dead, Long Live CSP! On the Insecurity ofWhitelists and the Future of Content Security Policy
 https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf
+
+#### 1Signing Me onto Your Accounts through Facebook and Google: a Traffic-Guided Security Study of Commercially Deployed Single-Sign-On Web Services
+https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/websso-final.pdf
