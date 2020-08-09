@@ -73,3 +73,6 @@ http://www.jbonneau.com/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf
 
 #### The quest to replace passwords:a framework forcomparative evaluation ofWeb authentication schemes
 https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-817.pdf
+
+#### Microsoft Password Guidance
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Microsoft_Password_Guidance-1.pdf
