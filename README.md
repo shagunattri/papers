@@ -64,3 +64,12 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/websso-final
 
 #### Re: CAPTCHAs – Understanding CAPTCHA-Solving Services in anEconomic Context
 https://www.cs.uic.edu/pub/Kanich/Publications/re.captchas.pdf
+
+#### A Real-World Analysis of Kerberos Password Security
+http://www.gnu.org/software/shishi/wu99realworld.pdf
+
+#### The science of guessing: analyzing an anonymized corpus of 70 million passwords
+http://www.jbonneau.com/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf
+
+#### The quest to replace passwords:a framework forcomparative evaluation ofWeb authentication schemes
+https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-817.pdf
