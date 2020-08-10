@@ -76,3 +76,12 @@ https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-817.pdf
 
 #### Microsoft Password Guidance
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Microsoft_Password_Guidance-1.pdf
+
+#### Baggy Bounds Checking: An Efficient and Backwards-Compatible Defenseagainst Out-of-Bounds Errors
+https://css.csail.mit.edu/6.858/2020/readings/baggy.pdf
+
+#### Hacking Blind
+https://css.csail.mit.edu/6.858/2014/readings/brop.pdf
+
+#### Heap Bounds Protection with Low Fat Pointers∗
+https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf
