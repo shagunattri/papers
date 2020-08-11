@@ -1,6 +1,8 @@
 
 
-A collection of important security related papers worth a read.
+*A collection of important security related papers worth a read.*
+
+Papers involve topics in Web,privacy and systems security.
 
 #### Reining in the Web with Content Security Policy
 https://research.sidstamm.com/papers/csp-www2010.pdf
@@ -85,3 +87,6 @@ https://css.csail.mit.edu/6.858/2014/readings/brop.pdf
 
 #### Heap Bounds Protection with Low Fat Pointers∗
 https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf
+
+#### Building Secure High-Performance Web Services with OKWS
+https://css.csail.mit.edu/6.858/2020/readings/okws.pdf
