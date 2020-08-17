@@ -90,3 +90,6 @@ https://www.comp.nus.edu.sg/~gregory/papers/cc16lowfatptrs.pdf
 
 #### Building Secure High-Performance Web Services with OKWS
 https://css.csail.mit.edu/6.858/2020/readings/okws.pdf
+
+#### Komodo: Using verification to disentanglesecure-enclave hardware from software
+https://css.csail.mit.edu/6.858/2020/readings/komodo.pdf
