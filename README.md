@@ -93,3 +93,24 @@ https://css.csail.mit.edu/6.858/2020/readings/okws.pdf
 
 #### Komodo: Using verification to disentanglesecure-enclave hardware from software
 https://css.csail.mit.edu/6.858/2020/readings/komodo.pdf
+
+#### Innovative Instructions and Software Model for Isolated Execution 
+https://software.intel.com/sites/default/files/article/413936/hasp-2013-innovative-instructions-and-software-model-for-isolated-execution.pdf
+
+#### Iago Attacks: Why the System CallAPI is a Bad Untrusted RPC Interface
+https://hovav.net/ucsd/dist/iago.pdf
+
+#### Rethinking the Library OS from the Top Down
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf
+
+#### Software Grand Exposure: SGX Cache Attacks Are Practical
+https://www.usenix.org/system/files/conference/woot17/woot17-paper-brasser.pdf
+
+#### Controlled-Channel Attacks: Deterministic SideChannels for Untrusted Operating Systems
+https://www.ieee-security.org/TC/SP2015/papers-archived/6949a640.pdf
+
+#### Intel SGX Explained
+https://eprint.iacr.org/2016/086.pdf
+
+#### Practical Enclave Malware with Intel SGX
+https://regmedia.co.uk/2019/02/12/sgxmalware.pdf
