@@ -117,3 +117,6 @@ https://regmedia.co.uk/2019/02/12/sgxmalware.pdf
 
 ####iOS Security iOS 12.3
 https://css.csail.mit.edu/6.858/2020/readings/ios-security-may19.pdf
+
+#### The Android Platform Security Model
+https://css.csail.mit.edu/6.858/2020/readings/android-platform.pdf
