@@ -120,3 +120,6 @@ https://css.csail.mit.edu/6.858/2020/readings/ios-security-may19.pdf
 
 #### The Android Platform Security Model
 https://css.csail.mit.edu/6.858/2020/readings/android-platform.pdf
+
+#### RIDL: Rogue In-Flight Data Load
+https://mdsattacks.com/files/ridl.pdf
