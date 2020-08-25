@@ -1,8 +1,9 @@
 
+### papers
 
 `A collection of important security related papers worth a read.`
 
-Papers involve topics in Web,privacy and systems security.
+Papers involve topics ranging from web,privacy and systems security.
 
 #### Reining in the Web with Content Security Policy
 https://research.sidstamm.com/papers/csp-www2010.pdf
@@ -123,3 +124,6 @@ https://css.csail.mit.edu/6.858/2020/readings/android-platform.pdf
 
 #### RIDL: Rogue In-Flight Data Load
 https://mdsattacks.com/files/ridl.pdf
+
+#### EXE: Automatically Generating Inputs of Death
+https://css.csail.mit.edu/6.858/2020/readings/exe.pdf
