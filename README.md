@@ -133,3 +133,6 @@ https://css.csail.mit.edu/6.858/2020/readings/lookback-tcpip.pdf
 
 #### The first collision for full SHA-1
 https://shattered.io/static/shattered.pdf
+
+#### A Meaningful MD5 Hash Collision Attack
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1020&context=etd_projects
