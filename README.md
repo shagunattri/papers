@@ -130,3 +130,6 @@ https://css.csail.mit.edu/6.858/2020/readings/exe.pdf
 
 #### A Look Back at Security Problems in the TCP/IP Protocol Suite
 https://css.csail.mit.edu/6.858/2020/readings/lookback-tcpip.pdf
+
+#### The first collision for full SHA-1
+https://shattered.io/static/shattered.pdf
