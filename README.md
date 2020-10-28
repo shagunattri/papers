@@ -136,3 +136,6 @@ https://shattered.io/static/shattered.pdf
 
 #### A Meaningful MD5 Hash Collision Attack
 https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1020&context=etd_projects
+
+#### International Journal of PoC‖GTFOIssue 0x00, a CFP with PoC
+https://www.alchemistowl.org/pocorgtfo/pocorgtfo00.pdf
