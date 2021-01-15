@@ -139,3 +139,6 @@ https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?referer=https://www.google.com
 
 #### International Journal of PoC‖GTFOIssue 0x00, a CFP with PoC
 https://www.alchemistowl.org/pocorgtfo/pocorgtfo00.pdf
+
+#### Tales of FAVICONS and Caches:Persistent Tracking in Modern Browsers
+https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf
