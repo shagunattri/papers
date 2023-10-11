@@ -142,3 +142,9 @@ https://www.alchemistowl.org/pocorgtfo/pocorgtfo00.pdf
 
 #### Tales of FAVICONS and Caches:Persistent Tracking in Modern Browsers
 https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf
+
+#### SapFix: Automated End-to-End Repair at Scale
+https://web.eecs.umich.edu/~weimerw/481/readings/SapFix-Automated-End-to-End-Repair-at-Scale-v2.pdf
+
+#### NPEfix: Automatic Runtime Repair of Null Pointer Exceptions in Java
+https://arxiv.org/pdf/1512.07423.pdf
